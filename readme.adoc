@@ -2,3 +2,6 @@
 
 This repository will have all the content for Docker for Java developers course.
 
+this is a fork of arun-gupta/docker-for-java
+which is for lynda.com course docker for java
+
